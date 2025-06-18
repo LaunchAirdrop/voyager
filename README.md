@@ -9,7 +9,7 @@ This bot automatically handles daily login, quest claiming, and chest spinning f
 - Multi-wallet support - Process multiple wallets automatically
 - Daily quest automation - Auto-claim ready quests
 - Chest spinning - Auto-spin daily free chests and coin chests
-- Proxy support - Use HTTP/HTTPS/SOCKS4/SOCKS5 proxies for each wallet
+- Proxy support 
 - Daily reset countdown - Automatically waits for next daily reset
 - Session management - Handle authentication and sessions automatically
 
