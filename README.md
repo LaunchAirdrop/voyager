@@ -33,6 +33,10 @@ cd voyager
 
 Install Dependencies
 ```bash
+npm install 
+```
+or
+```bash
 npm install dotenv axios ethers siwe https-proxy-agent http-proxy-agent socks-proxy-agent crypto-js
 ```
 
