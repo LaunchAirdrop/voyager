@@ -21,10 +21,6 @@ First, create your Voyager CraftWorld account :
 
 ## Installation
 
-### Prerequisites
-- Node.js (v16 or higher)
-- npm or yarn package manager
-
 ### Clone the Repository
 ```bash
 git clone https://github.com/LaunchAirdrop/voyager.git
